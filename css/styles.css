@@ -1,0 +1,20 @@
+
+body{
+  background-color :rgb(230, 173, 169);
+}
+
+h1{
+    color : #f30cc9;
+}
+
+h2{
+    color : #f30cc9;
+}
+
+hr{
+  background-color : rgb(86, 79, 79);
+  border-style: dashed;
+  border-top-style:dotted;
+  border-color: rgb(86,79,79);
+  border-width: 20%;
+}
